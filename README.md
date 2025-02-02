@@ -16,5 +16,5 @@
 [<img align="left" alt="Marc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [facebook]: https://www.facebook.com/MarcEJMar/
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
