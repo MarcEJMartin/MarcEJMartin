@@ -1,11 +1,11 @@
-<h1>Hi, I'm Marc-Evens, an <a href="https://www.linkedin.com/in/marc-evens-martin-2295ba29b/">IT Professional</a></h1>
+<h1>Hi, I'm Marc-Evens Martin, an <a href="https://www.linkedin.com/in/marc-evens-martin-2295ba29b/">IT Professional</a></h1>
 
 <h2>👨‍💻 My Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/marcejmartin/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/marcejmartin/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/marcejmartin/ticket-lifecycle)
+    
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcejmartin/configure-ad)
   
