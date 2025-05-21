@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/marcejmartin/post-install-config)
     
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcejmartin/configure-ad)
+  - [Configuring Active Directory infrastructure within Azure VMs](https://github.com/marcejmartin/configure-ad)
   
 
 <h2>🤳Connect with me:</h2>
