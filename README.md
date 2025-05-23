@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/marcejmartin/post-install-config)
     
 - <b>Active Directory</b>
+  - [Creating Active Directory infrastructure: Prerequisites](https://github.com/marcejmartin/ad-prereqs)
   - [Creating Active Directory infrastructure within Azure VMs](https://github.com/marcejmartin/configure-ad)
   - [Configuring Account Policies for Active Directory](https://github.com/marcejmartin/acct-policy-config)
   
