@@ -16,7 +16,6 @@
 
 [<img align="left" alt="Marc-Evens | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Marc-Evens | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Youtube]
-[<img align="left" alt="Marc-Evens | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Josh
 [youtube]: https://www.youtube.com/@MarcEvensMartin
