@@ -10,8 +10,10 @@
   - [Creating Active Directory infrastructure: Prerequisites](https://github.com/marcejmartin/ad-prereqs)
   - [Creating Active Directory infrastructure within Azure VMs](https://github.com/marcejmartin/configure-ad)
   - [Configuring Account Policies for Active Directory](https://github.com/marcejmartin/acct-policy-config)
-  
 
+- <b>Virtual Private Network</b>
+  - [Analyzing VPN Setup and Usage within Azure VM](https://github.com/marcejmartin/vpn-setup)
+    
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Marc-Evens | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
